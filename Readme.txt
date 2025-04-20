@@ -13,10 +13,11 @@ For Data Extraction read Data Copy.txt
 
 
 For device checkup. open cloudshell in extracted folder
-run adb devices
-then run .\scrcpy -s ip:5555
+ adb devices
+.\scrcpy -s <ip>:5555
 
-
+For mobile proper turn off
+adb -s 192.168.xxx.xx:5555 shell input keyevent 26
 
 if .bat file is opening auto into powershell then add .\ before scrcpy
 
