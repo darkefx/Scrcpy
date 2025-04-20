@@ -12,7 +12,9 @@ and for using screen as well run oneclickscrcpy.bat
 For Data Extraction read Data Copy.txt
 
 
-
+For device checkup. open cloudshell in extracted folder
+run adb devices
+then run .\scrcpy -s ip:5555
 
 
 
