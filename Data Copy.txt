@@ -1,0 +1,14 @@
+adb -s 192.168.xxx.xx:5555 pull /sdcard/DCIM E:\PhoneMediaBackup
+
+
+Open powershell there. then run
+
+and simply repeat the word sdcard/download
+                           sdcard/photos 
+                           (according to folders in internal storage)
+
+
+ 
+sdcard stand for internal storage
+and phonemediastorage is the folder in E. disk of pc that you you
+have to craete before exporting anything.

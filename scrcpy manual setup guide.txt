@@ -1,0 +1,20 @@
+windows scrcpy.
+
+1. download and extract wind ver.
+2.Enable usb deb from dev. opt. one.
+3. run scrcpy.exe.
+
+     FOR WLESS (open piwer shell from extracted fold)
+1.find device ip by adb shell ip route.
+2. adb tcpip 5555
+3. adb connect 192.168.xx.xxx:5555
+   connected.
+                now set it.
+1. adb devices
+2. .\scrcpy -s 192.168.xxx.xx:5555 .
+        Done
+
+now for modification 
+again open powershell from ext. folder
+1. .\scrcpy --turn-screen-off --stay-awake
+
