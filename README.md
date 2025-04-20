@@ -1,6 +1,6 @@
 # Scrcpy
 SCRCPY for windows
-Fisr Extract Zip file to a specific folder.
+First Extract Zip file to a specific folder.
 then for auto processing paste .bat files to that extracted path.
 then edit bat files and put the required device ip (go to mobile wifi->setting of connected wifi->scroll down->ip address)
 Read the readme.txt file for modiciations and requirement.
