@@ -1,4 +1,4 @@
-# Scrcpy
+# Scrcpy (credits GENNYMOBILE)  (modified into clickable form by kool_efx)
 SCRCPY for windows
 ....Requirements....
 You must know victims ip. format 192.xxx.xxx.xx ( explained in readme.txt) it just takes 10seconds to know ip.
