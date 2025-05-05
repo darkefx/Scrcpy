@@ -1,15 +1,15 @@
+# 🖥️ SCRCPY for Windows (Modified by kool_efx)
+
+> 📲 **Mirror & Control Android Device via IP**  
+> 🛠️ Based on [Genymobile's SCRCPY](https://github.com/Genymobile/scrcpy) — Modified into a portable, one-click solution.
+
+---
 📄 Legal & Credits
 🧑‍💻 Modified and packaged by: kool_efx
 
 👨‍🔬 Based on Genymobile's SCRCPY
 
 ⚠️ For testing and educational purposes only. Unauthorized usage is discouraged.
-
-# 🖥️ SCRCPY for Windows (Modified by kool_efx)
-
-> 📲 **Mirror & Control Android Device via IP**  
-> 🛠️ Based on [Genymobile's SCRCPY](https://github.com/Genymobile/scrcpy) — Modified into a portable, one-click solution.
-
 ---
 
 ## ⚙️ Requirements
